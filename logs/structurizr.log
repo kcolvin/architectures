@@ -1,0 +1,99 @@
+[INFO ] 2022-10-05 01:17:53.210 [main] Configuration - ***********************************************************************************
+[INFO ] 2022-10-05 01:17:53.220 [main] Configuration -    _____ _                   _              _          
+[INFO ] 2022-10-05 01:17:53.225 [main] Configuration -   / ____| |                 | |            (_)         
+[INFO ] 2022-10-05 01:17:53.226 [main] Configuration -  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+[INFO ] 2022-10-05 01:17:53.226 [main] Configuration -   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+[INFO ] 2022-10-05 01:17:53.227 [main] Configuration -   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+[INFO ] 2022-10-05 01:17:53.227 [main] Configuration -  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+[INFO ] 2022-10-05 01:17:53.227 [main] Configuration -                                                        
+[INFO ] 2022-10-05 01:17:53.227 [main] Configuration -  Structurizr on-premises installation
+[INFO ] 2022-10-05 01:17:53.229 [main] Configuration -  Build: 2828
+[INFO ] 2022-10-05 01:17:53.229 [main] Configuration -  Built: 2022-10-02T12:33:39Z
+[INFO ] 2022-10-05 01:17:53.231 [main] Configuration -  Data directory: /usr/local/structurizr (r: true; w: true; x: true)
+[INFO ] 2022-10-05 01:17:53.233 [main] Configuration -  URL: 
+[INFO ] 2022-10-05 01:17:53.234 [main] Configuration -  Memory: used=74MB; free=419MB; total=494MB; max=494MB
+[INFO ] 2022-10-05 01:17:53.234 [main] Configuration - 
+[INFO ] 2022-10-05 01:17:53.234 [main] Configuration -  Authentication: file
+[INFO ] 2022-10-05 01:17:53.235 [main] Configuration -  Data storage: file
+[INFO ] 2022-10-05 01:17:53.237 [main] Configuration -  Search: lucene
+[INFO ] 2022-10-05 01:17:54.226 [main] Configuration - ***********************************************************************************
+[INFO ] 2022-10-05 01:19:57.503 [http-nio-8080-exec-5] AuthenticationSuccessHandler - structurizr successfully authenticated
+[WARN ] 2022-10-05 02:53:54.430 [http-nio-8080-exec-8] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 02:59:07.002 [http-nio-8080-exec-9] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 03:12:52.362 [http-nio-8080-exec-7] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 03:54:56.804 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 04:18:07.596 [http-nio-8080-exec-4] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 04:42:48.686 [http-nio-8080-exec-5] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 05:05:07.846 [http-nio-8080-exec-6] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 05:06:16.938 [http-nio-8080-exec-3] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 05:10:42.873 [http-nio-8080-exec-8] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 05:12:45.194 [http-nio-8080-exec-9] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 05:27:36.273 [http-nio-8080-exec-7] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 05:30:25.661 [http-nio-8080-exec-10] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 06:07:01.909 [http-nio-8080-exec-2] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 06:47:14.664 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 08:19:46.639 [http-nio-8080-exec-2] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 08:50:36.049 [http-nio-8080-exec-8] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 09:01:45.714 [http-nio-8080-exec-9] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 09:25:43.422 [http-nio-8080-exec-7] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 09:31:37.223 [http-nio-8080-exec-10] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 09:43:54.940 [http-nio-8080-exec-4] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 09:52:38.570 [http-nio-8080-exec-5] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 09:52:39.700 [http-nio-8080-exec-6] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 10:01:09.861 [http-nio-8080-exec-9] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 10:35:28.365 [http-nio-8080-exec-10] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 10:49:48.534 [http-nio-8080-exec-2] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 12:41:20.678 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /securityRealm/user/admin/search/index
+[WARN ] 2022-10-05 12:43:44.714 [http-nio-8080-exec-4] PageNotFound - No mapping for GET /boaform/admin/formLogin
+[WARN ] 2022-10-05 12:54:36.228 [http-nio-8080-exec-6] PageNotFound - No mapping for POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[WARN ] 2022-10-05 12:54:36.244 [http-nio-8080-exec-6] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+[WARN ] 2022-10-05 12:58:23.161 [http-nio-8080-exec-3] PageNotFound - No mapping for GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[ERROR] 2022-10-05 13:17:37.542 [http-nio-8080-exec-7] Http500Controller - null
+[WARN ] 2022-10-05 13:22:59.293 [http-nio-8080-exec-10] PageNotFound - No mapping for GET /console/
+[WARN ] 2022-10-05 13:26:25.513 [http-nio-8080-exec-2] PageNotFound - No mapping for POST /Autodiscover/Autodiscover.xml
+[WARN ] 2022-10-05 13:26:25.516 [http-nio-8080-exec-2] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+[WARN ] 2022-10-05 13:34:15.437 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /_ignition/execute-solution
+[WARN ] 2022-10-05 14:00:30.879 [http-nio-8080-exec-3] PageNotFound - No mapping for GET /actuator/gateway/routes
+[WARN ] 2022-10-05 14:38:42.171 [http-nio-8080-exec-10] PageNotFound - No mapping for GET /.DS_Store
+[WARN ] 2022-10-05 14:38:42.533 [http-nio-8080-exec-2] PageNotFound - No mapping for GET /.git/config
+[WARN ] 2022-10-05 14:38:42.910 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /server-status
+[WARN ] 2022-10-05 14:38:43.291 [http-nio-8080-exec-4] PageNotFound - No mapping for GET /config.json
+[WARN ] 2022-10-05 14:38:43.657 [http-nio-8080-exec-5] PageNotFound - No mapping for GET /.env
+[WARN ] 2022-10-05 14:38:44.005 [http-nio-8080-exec-6] PageNotFound - No mapping for GET /idx_config/
+[WARN ] 2022-10-05 14:38:44.385 [http-nio-8080-exec-3] PageNotFound - No mapping for GET /telescope/requests
+[WARN ] 2022-10-05 14:38:44.756 [http-nio-8080-exec-8] PageNotFound - No mapping for GET /info.php
+[WARN ] 2022-10-05 14:38:45.141 [http-nio-8080-exec-9] PageNotFound - No mapping for GET /.json
+[WARN ] 2022-10-05 14:54:26.176 [http-nio-8080-exec-2] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 15:15:09.579 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 15:26:16.543 [http-nio-8080-exec-4] PageNotFound - No mapping for GET /manager/html
+[WARN ] 2022-10-05 15:44:45.470 [http-nio-8080-exec-4] AuthenticationFailureHandler - kcolvin failed authentication: org.springframework.security.authentication.BadCredentialsException: Bad credentials
+[WARN ] 2022-10-05 15:45:46.212 [http-nio-8080-exec-3] PageNotFound - No mapping for GET /password/Ku42rt
+[WARN ] 2022-10-05 15:46:40.153 [http-nio-8080-exec-1] PageNotFound - No mapping for GET /password/Ku42rt
+[INFO ] 2022-10-05 15:46:46.769 [http-nio-8080-exec-2] AuthenticationSuccessHandler - kcolvin successfully authenticated
+[INFO ] 2022-10-05 16:07:54.824 [http-nio-8080-exec-5] AuthenticationSuccessHandler - jpolly successfully authenticated
+[INFO ] 2022-10-05 16:18:13.486 [Thread-2] Configuration - ********************************************************
+[INFO ] 2022-10-05 16:18:13.490 [Thread-2] Configuration -  Stopping Structurizr
+[INFO ] 2022-10-05 16:18:13.490 [Thread-2] Configuration - ********************************************************
+[INFO ] 2022-10-05 16:19:13.788 [main] Configuration - ***********************************************************************************
+[INFO ] 2022-10-05 16:19:13.798 [main] Configuration -    _____ _                   _              _          
+[INFO ] 2022-10-05 16:19:13.798 [main] Configuration -   / ____| |                 | |            (_)         
+[INFO ] 2022-10-05 16:19:13.799 [main] Configuration -  | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+[INFO ] 2022-10-05 16:19:13.799 [main] Configuration -   \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+[INFO ] 2022-10-05 16:19:13.799 [main] Configuration -   ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+[INFO ] 2022-10-05 16:19:13.800 [main] Configuration -  |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+[INFO ] 2022-10-05 16:19:13.800 [main] Configuration -                                                        
+[INFO ] 2022-10-05 16:19:13.800 [main] Configuration -  Structurizr on-premises installation
+[INFO ] 2022-10-05 16:19:13.807 [main] Configuration -  Build: 2828
+[INFO ] 2022-10-05 16:19:13.808 [main] Configuration -  Built: 2022-10-02T12:33:39Z
+[INFO ] 2022-10-05 16:19:13.809 [main] Configuration -  Data directory: /usr/local/structurizr (r: true; w: true; x: true)
+[INFO ] 2022-10-05 16:19:13.810 [main] Configuration -  URL: 
+[INFO ] 2022-10-05 16:19:13.810 [main] Configuration -  Memory: used=74MB; free=419MB; total=494MB; max=494MB
+[INFO ] 2022-10-05 16:19:13.810 [main] Configuration - 
+[INFO ] 2022-10-05 16:19:13.811 [main] Configuration -  Authentication: file
+[INFO ] 2022-10-05 16:19:13.813 [main] Configuration -  Data storage: file
+[INFO ] 2022-10-05 16:19:13.814 [main] Configuration -  Search: lucene
+[INFO ] 2022-10-05 16:19:14.768 [main] Configuration - ***********************************************************************************
+[WARN ] 2022-10-05 16:59:28.108 [http-nio-8080-exec-5] PageNotFound - No mapping for GET /Main_Login.asp
+[WARN ] 2022-10-05 16:59:28.112 [http-nio-8080-exec-6] PageNotFound - No mapping for GET /Main_Login.asp
+[INFO ] 2022-10-05 17:25:39.374 [http-nio-8080-exec-7] AuthenticationSuccessHandler - kcolvin successfully authenticated
+[INFO ] 2022-10-05 17:25:56.540 [http-nio-8080-exec-6] AuthenticationSuccessHandler - jpolly successfully authenticated
