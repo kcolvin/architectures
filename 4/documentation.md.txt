@@ -1,0 +1,27 @@
+# Pow Plow Portal
+## Intake Form
+Date: 3/7/2022
+
+Organization Name: San Bernardino County, Department of Public Works
+
+Location of Organization: 825 E Third St., San Bernardino, CA 92415
+
+Executive Sponsor: County Administrative Office
+
+Primary Contact: Sameh.Basta@dpw.sbcounty.gov (909) 387-8040
+
+Describe the problem or opportunity to be addressed: (150 words or less)
+Snow Plow Route Optimization:
+Opportunity: Develop new snow plow routes that optimize the efficiency of snow plowing
+operations. Analyze the variables and come up with an optimization tool for Public Works
+supervisors (e.g. Spreadsheet or GIS program). This trial study would be focused only on the
+Running Spring/Green Valley Lake area routes.
+1. Evaluation of current routes and recommend route adjustments for optimization.
+2. Automatically highlight when a different piece of heavy equipment should be used as snow
+accumulates (equipment speed and performance capabilities to be provided by Public Works)
+3. Trigger points when a second piece of equipment or a route modification should be implemented to
+maintain the “passable” goal of 8 inches or less in the 10-hour period.
+4. Provide estimated time to clear roads after storm has ended based on snowfall depth per storm.
+## Press Release
+## FAQ
+## Visuals
